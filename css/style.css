@@ -64,6 +64,6 @@ p {
 }
 
 #footer {
-	text-align: 0 auto;
+	text-align: auto 0;
 	font-size: 0.9em;
 }
