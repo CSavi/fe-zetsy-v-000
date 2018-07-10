@@ -32,6 +32,7 @@ header a:hover {
 }
 
 h1 {
+	display: block;
 	padding-bottom: 10px;
 	margin: 0, 0, 5px;
 	font-size: 5em;
