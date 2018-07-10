@@ -22,12 +22,21 @@ body {
 
 /* Write all remaining styles here */
 h1 {
-	padding-bottom: 
-	margin: 
-	font-size: 
+	padding-bottom:
+	margin:
+	font-size:
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
-	border-bottom: 
+	border-bottom:
+}
+
+#logo {
+
+}
+
+h2 {
+	color:
+	font-size:
 }
 
 #about {
