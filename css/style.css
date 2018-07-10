@@ -4,7 +4,7 @@
 		src: url(/fonts/Baskerville.ttc);
 }
 /* link the web font used for the level 1 heading here */
-@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville|Playfair+Display")
+/*@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville|Playfair+Display")*/
 /*////////// Global Styles //////////*/
 
 body {
@@ -78,7 +78,7 @@ p {
 }
 
 #press img:hover {
-	border: 5px rgb(111,127,122) solid
+	border: 5px rgb(111,127,122) solid;
 }
 
 #footer {
