@@ -21,8 +21,14 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 a {
+header a {
+	text-decoration: none;
+	background: transparent;
+}
 
+header a:hover {
+	color: rgb(111, 127, 122);
+	outline: 0;
 }
 
 h1 {
